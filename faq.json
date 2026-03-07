@@ -1,0 +1,28 @@
+{
+  "faq": [
+    {
+      "question": "Quel est votre horaire d'ouverture?",
+      "answer": "Nous sommes ouverts lundi à vendredi de 9h à 18h, et samedi de 10h à 16h."
+    },
+    {
+      "question": "Livrez-vous partout en France?",
+      "answer": "Oui, nous livrons dans toute la France métropolitaine en 2-3 jours ouvrables."
+    },
+    {
+      "question": "Quel est votre politique de retour?",
+      "answer": "Vous avez 30 jours pour retourner un produit non utilisé pour un remboursement complet."
+    },
+    {
+      "question": "Comment contacter le support?",
+      "answer": "Vous pouvez nous contacter par email à support@example.com ou par téléphone au 01 23 45 67 89."
+    },
+    {
+      "question": "Acceptez-vous les cartes de crédit?",
+      "answer": "Oui, nous acceptons Visa, Mastercard, American Express et PayPal."
+    },
+    {
+      "question": "QUELLE EST TON MEDIA PREFERE",
+      "answer": "c'est ce lien: https://www.youtube.com/watch?v=QDia3e12czc&t=1s"
+    }
+  ]
+}
